@@ -62,12 +62,12 @@
 
    5.1. Desarrollo
      
-     ![Laboratorio 7_Página_4](https://user-images.githubusercontent.com/75439689/111705822-4b0d9380-880f-11eb-89c8-865bdf73b198.jpg)
-     ![Laboratorio 7_Página_5](https://user-images.githubusercontent.com/75439689/111705824-4ba62a00-880f-11eb-84da-1a9f7d4658a6.jpg)
-     ![Laboratorio 7_Página_6](https://user-images.githubusercontent.com/75439689/111705826-4ba62a00-880f-11eb-8c81-78ae7bcc013d.jpg)
      ![Laboratorio 7_Página_1](https://user-images.githubusercontent.com/75439689/111705827-4ba62a00-880f-11eb-907e-6987889fb368.jpg)
      ![Laboratorio 7_Página_2](https://user-images.githubusercontent.com/75439689/111705829-4c3ec080-880f-11eb-8bda-7c2b764ba369.jpg)
      ![Laboratorio 7_Página_3](https://user-images.githubusercontent.com/75439689/111705830-4c3ec080-880f-11eb-8aed-eaf94724dc9a.jpg)
+     ![Laboratorio 7_Página_4](https://user-images.githubusercontent.com/75439689/111705822-4b0d9380-880f-11eb-89c8-865bdf73b198.jpg)
+     ![Laboratorio 7_Página_5](https://user-images.githubusercontent.com/75439689/111705824-4ba62a00-880f-11eb-84da-1a9f7d4658a6.jpg)
+     ![Laboratorio 7_Página_6](https://user-images.githubusercontent.com/75439689/111705826-4ba62a00-880f-11eb-8c81-78ae7bcc013d.jpg)
      
    5.2. Procedimiento
      
