@@ -51,17 +51,11 @@
 
 6. MANUAL DE USUARIO
 
-   - Para la comparación de datos entre la calculadora y los ejercicios hechos, se procederá a utilizar una calculadora en línea que transforma números complejos de forma polar a forma rectangular y viceversa. La calculadora se encuentra en el link: https://www.matesfacil.com/BAC/complejos/numeros-complejos-forma-polar-binomica-calculadora-producto-problemas-resueltos.html.
-   
-        ![image](https://user-images.githubusercontent.com/75439689/111707208-a3459500-8811-11eb-96c5-63dc8550f405.png)
-   
-   - Para poder utilizar la calculadora se deberá deslizar hacia abajo hasta la sección 3. Calculadoras para pasar de la forma binómica a la polar y viceversa.
-   
-        ![image](https://user-images.githubusercontent.com/75439689/111707257-b6f0fb80-8811-11eb-8004-ffbe3fa23a36.png)
-   - En esta sección se encuentran dos calculadoras una llamada Calculadora 1: De forma binómica a polar, que transforma números complejos de forma rectangular a polar, y el apartado Calculadora 2: De forma polar (en grados) a binómica, que transforma números complejos de forma polar a rectangular, y simplemente anotamos los datos que queremos y presionamos el botón calcular y los transformará al estilo deseado.
-   
-      ![image](https://user-images.githubusercontent.com/75439689/111707501-2535be00-8812-11eb-8b6b-8f6b7e640915.png)
-      
+   - Para la comparación de datos entre la calculadora y los ejercicios hechos, se procederá a utilizar una calculadora en línea que transforma números complejos de forma polar a forma rectangular y viceversa. La calculadora se encuentra en el link: https://es.symbolab.com/solver/complex-number-calculator/
+      ![image](https://user-images.githubusercontent.com/75439689/111711246-451cb000-8819-11eb-9e6d-eb26c9fb9eae.png)
+  
+   - En la barra blanca se ingresan los datos para las operaciones de números complejos, dentro de esta se deberá poner los numeros complejos como la i a la derecha en vez de la j a la izquierda, luego de poner todos los datos se presiona el botón Ir y se desplegará la respuesta abajo.
+ 
 7. CONCLUSIONES
 
    - Saber como determinar los distintos tipos de voltaje que hay dentro de un circuito con C.A. es muy útil, ya que en la realidad hay que tomar otros valores además de los obvios, como es el voltaje de amplitud que no es más el voltaje pico que puede medir el osciloscopio; pero el voltaje utilizado es el voltaje RMS que representa el aproximadamente 70% y que es el voltaje de salida de resistor RL del circuito.
