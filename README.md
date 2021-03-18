@@ -60,9 +60,15 @@
 
 5. EXPLICACIÓN
 
-     5.1. Procedimiento
+     5.1. Desarrollo
      
-      - Ingresar a la plataforma dcaclab y seleccionar los materiales previamente listados.
+     ![Laboratorio 7_Página_1](https://user-images.githubusercontent.com/75439689/111705827-4ba62a00-880f-11eb-907e-6987889fb368.jpg)
+![Laboratorio 7_Página_2](https://user-images.githubusercontent.com/75439689/111705829-4c3ec080-880f-11eb-8bda-7c2b764ba369.jpg)
+![Laboratorio 7_Página_3](https://user-images.githubusercontent.com/75439689/111705830-4c3ec080-880f-11eb-8aed-eaf94724dc9a.jpg)
+     
+   5.2. Procedimiento
+     
+   - Ingresar a la plataforma dcaclab y seleccionar los materiales previamente listados.
       - Colocar la fuente de voltaje alterno con los valores requeridos (Vpp=20V y f=2.5kHz).
       - Dar los valores de la resistencia (R1=1kOhm y RL=2.2kOhm).
       - Conectar en serie la fuente de voltaje alterno, la resistencia R1 y la resistencia de carga RL e, dicho orden específico.
@@ -71,8 +77,6 @@
       - Con la función obtenida en el osciloscopio, observar y anotar el valor pico de la onda (Vp) junto con el tiempo que tarda en completar un ciclo (T: Período)
       - Desconectar el oscilocopio de la resistencia de carga y en su lugar conectar las terminales del multímetro en dihca resistencia, cuya perilla debe estar en 12V AC.
       - Observar y anotar el voltaje que tiene la resistencia de carga en el multímetro (Vrms).
-      
-     5.2. Preguntas
 
 
       - ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
