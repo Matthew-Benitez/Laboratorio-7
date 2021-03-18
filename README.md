@@ -48,6 +48,10 @@
    - Con la función obtenida en el osciloscopio, observar y anotar el valor pico de la onda (Vp) junto con el tiempo que tarda en completar un ciclo (T: Período)
    - Desconectar el oscilocopio de la resistencia de carga y en su lugar conectar las terminales del multímetro en dihca resistencia, cuya perilla debe estar en 12V AC.
    - Observar y anotar el voltaje que tiene la resistencia de carga en el multímetro (Vrms).
+  
+  5.3. Comparación de Respuestas
+  
+   -  Cómo se puede observar, las operaciones hechas a mano y a calculadora son muy parecidas 
 
 6. MANUAL DE USUARIO
 
