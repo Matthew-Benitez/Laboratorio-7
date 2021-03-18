@@ -15,42 +15,12 @@
    
    
 3. DIAGRAMAS
-   - Modelo Del Circuito
    
-   ![image](https://user-images.githubusercontent.com/75439689/109229447-4e25de80-7791-11eb-8f3d-7d141b53147b.png)
-   
-   *Figura 3.1*
-   
-   - Materiales Del Circuito
-   
-   ![image](https://user-images.githubusercontent.com/75439689/109229255-0bfc9d00-7791-11eb-8727-b089099d00c5.png)
-
-   
-   *Figura 3.2*
-   
-   - Circuito Armado
-
-   ![image](https://user-images.githubusercontent.com/75439689/109229313-1cad1300-7791-11eb-9c5a-2270dbd7e4b7.png)
-
-   *Figura 3.3*
-   
-   - Circuito con Osciloscopio y Multímetro
-   
-   ![image](https://user-images.githubusercontent.com/75439689/109229687-a826a400-7791-11eb-96a6-fad56d25d92e.png)
-   
-   *Figura 3.4*
-   
-   - Circuito con Multímetro 
-   
-   ![image](https://user-images.githubusercontent.com/75439689/109229614-9218e380-7791-11eb-887e-3e4747ab3c2c.png)
-   
-   *Figura 3.5*
-   
-   - Circuito de Osciloscopio
-   
-   ![image](https://user-images.githubusercontent.com/75439689/109229531-7281bb00-7791-11eb-9647-09dd5b43a9f3.png)
-   
-   *Figura 3.6*
+   ![Diagramas_Página_1](https://user-images.githubusercontent.com/75439689/111708674-4a2b3080-8814-11eb-944c-01094750a46b.jpg)
+   ![Diagramas_Página_2](https://user-images.githubusercontent.com/75439689/111708676-4a2b3080-8814-11eb-87fe-e862b50b2a9a.jpg)
+   ![Diagramas_Página_3](https://user-images.githubusercontent.com/75439689/111708679-4a2b3080-8814-11eb-9733-0fb30a7b2b8e.jpg)
+   ![Diagramas_Página_4](https://user-images.githubusercontent.com/75439689/111708680-4ac3c700-8814-11eb-83ad-362c3d1bf6e1.jpg)
+   ![Diagramas_Página_5](https://user-images.githubusercontent.com/75439689/111708671-49929a00-8814-11eb-8a7b-63a6405f5b5d.jpg)
    
 4. LISTA DE COMPONENTES
    
@@ -81,12 +51,25 @@
    - Desconectar el oscilocopio de la resistencia de carga y en su lugar conectar las terminales del multímetro en dihca resistencia, cuya perilla debe estar en 12V AC.
    - Observar y anotar el voltaje que tiene la resistencia de carga en el multímetro (Vrms).
 
-6. CONCLUSIONES
+6. MANUAL DE USUARIO
+
+   - Para la comparación de datos entre la calculadora y los ejercicios hechos, se procederá a utilizar una calculadora en línea que transforma números complejos de forma polar a forma rectangular y viceversa. La calculadora se encuentra en el link: https://www.matesfacil.com/BAC/complejos/numeros-complejos-forma-polar-binomica-calculadora-producto-problemas-resueltos.html.
+   
+        ![image](https://user-images.githubusercontent.com/75439689/111707208-a3459500-8811-11eb-96c5-63dc8550f405.png)
+   
+   - Para poder utilizar la calculadora se deberá deslizar hacia abajo hasta la sección 3. Calculadoras para pasar de la forma binómica a la polar y viceversa.
+   
+        ![image](https://user-images.githubusercontent.com/75439689/111707257-b6f0fb80-8811-11eb-8004-ffbe3fa23a36.png)
+   - En esta sección se encuentran dos calculadoras una llamada Calculadora 1: De forma binómica a polar, que transforma números complejos de forma rectangular a polar, y el apartado Calculadora 2: De forma polar (en grados) a binómica, que transforma números complejos de forma polar a rectangular, y simplemente anotamos los datos que queremos y presionamos el botón calcular y los transformará al estilo deseado.
+   
+      ![image](https://user-images.githubusercontent.com/75439689/111707501-2535be00-8812-11eb-8b6b-8f6b7e640915.png)
+      
+7. CONCLUSIONES
 
    - Saber como determinar los distintos tipos de voltaje que hay dentro de un circuito con C.A. es muy útil, ya que en la realidad hay que tomar otros valores además de los obvios, como es el voltaje de amplitud que no es más el voltaje pico que puede medir el osciloscopio; pero el voltaje utilizado es el voltaje RMS que representa el aproximadamente 70% y que es el voltaje de salida de resistor RL del circuito.
    - El simulador demuestra eficientemente que diferentes tipos de gráficas y combinaciones para medir el voltaje o corriente de una fuente C.A., tanto la división del tiempo que puede ser tomado en microsegundos o milisegundos, o las divisiones de los voltajes los cuáles se ven de una mejor manera dependiendo de la amplitud de voltaje.
    - Junto con los cálculos que nos brinda un osciloscopio se puede determinar a parte otros datos como son la frecuencia (la cual es hallada con la inversa del periódo) y la frecuencia angular (que se calcula con la fórmula de 2*π*f).
   
-7. BIBLIOGRAFÍA
+8. BIBLIOGRAFÍA
 
    - Floyd, T. L. (2007). Principios de circuitos eléctricos (Octava ed.).
