@@ -60,7 +60,7 @@
 
 5. EXPLICACIÓN
 
-     5.1. Desarrollo
+   5.1. Desarrollo
      
      ![Laboratorio 7_Página_1](https://user-images.githubusercontent.com/75439689/111705827-4ba62a00-880f-11eb-907e-6987889fb368.jpg)
 ![Laboratorio 7_Página_2](https://user-images.githubusercontent.com/75439689/111705829-4c3ec080-880f-11eb-8bda-7c2b764ba369.jpg)
@@ -69,61 +69,14 @@
    5.2. Procedimiento
      
    - Ingresar a la plataforma dcaclab y seleccionar los materiales previamente listados.
-      - Colocar la fuente de voltaje alterno con los valores requeridos (Vpp=20V y f=2.5kHz).
-      - Dar los valores de la resistencia (R1=1kOhm y RL=2.2kOhm).
-      - Conectar en serie la fuente de voltaje alterno, la resistencia R1 y la resistencia de carga RL e, dicho orden específico.
-      - Con el osciloscopio, conectar las terminales del canal A en los extremos de la resistencia de carga RL.
-      - Ajustar las perillas del canal A para poder visualizar mejor la función sinusoidal (Y-pos=0; VOLTS/DIV=3; TIME/DIV=0.1ms)
-      - Con la función obtenida en el osciloscopio, observar y anotar el valor pico de la onda (Vp) junto con el tiempo que tarda en completar un ciclo (T: Período)
-      - Desconectar el oscilocopio de la resistencia de carga y en su lugar conectar las terminales del multímetro en dihca resistencia, cuya perilla debe estar en 12V AC.
-      - Observar y anotar el voltaje que tiene la resistencia de carga en el multímetro (Vrms).
-
-
-      - ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
-
-        La amplitud pico de la señal de salida abarca unos 2 y ¼ de cuadro.
-
-      - ¿En qué valor está posicionada la perilla VOLTS/DIV?
-
-        Está posicionado en 3
-
-      - ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
-
-        Horizontalmente abarca 4 cuadros, y verticalmente abarca 4 y medio de cuadros.
-
-      - ¿En qué valor está posicionada la perilla TIME/DIV?
-
-        Está posicionado en 0.1ms
-
-     5.3. ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
-
-      - Amplitud de voltaje: 6.85(V)
-
-      - Periodo: 0.0004(s)
-
-     5.4. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
-
-      - f: 2500(Hz)
-
-      - ω: 15707.96(rad/s)
-
-     5.5. Con el multímetro digital mida el voltaje de salida en RL:
-
-      - 4.823 (V)
-
-     5.6. Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.
-
-      - ¿Coinciden? 
-
-        No
-
-      - ¿Por qué?
-
-        Debido a que el voltaje de salida, el cual es calculado por el multímetro es el Voltaje RMS (es un voltaje equivalente que representa el valor de voltaje DC que producirá el mismo efecto de calentamiento o disipación de potencia en el circuito, como esta tensión de CA.) es diferente al voltaje de amplitud de la fuente de C.A. en el resistor. El voltaje RMS representa el 0.707 de la amplitud de voltaje.
-      
-      5.7. Errores Entre Calculados y Medidos
-      
-      ![image](https://user-images.githubusercontent.com/75439689/109238700-065b8300-77a2-11eb-8069-40f921d22739.png)
+   - Colocar la fuente de voltaje alterno con los valores requeridos (Vpp=20V y f=2.5kHz).
+   - Dar los valores de la resistencia (R1=1kOhm y RL=2.2kOhm).
+   - Conectar en serie la fuente de voltaje alterno, la resistencia R1 y la resistencia de carga RL e, dicho orden específico.
+   - Con el osciloscopio, conectar las terminales del canal A en los extremos de la resistencia de carga RL.
+   - Ajustar las perillas del canal A para poder visualizar mejor la función sinusoidal (Y-pos=0; VOLTS/DIV=3; TIME/DIV=0.1ms)
+   - Con la función obtenida en el osciloscopio, observar y anotar el valor pico de la onda (Vp) junto con el tiempo que tarda en completar un ciclo (T: Período)
+   - Desconectar el oscilocopio de la resistencia de carga y en su lugar conectar las terminales del multímetro en dihca resistencia, cuya perilla debe estar en 12V AC.
+   - Observar y anotar el voltaje que tiene la resistencia de carga en el multímetro (Vrms).
 
 6. CONCLUSIONES
 
