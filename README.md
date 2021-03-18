@@ -16,12 +16,10 @@
    
 3. DIAGRAMAS
    
-   ![Diagramas_Página_1](https://user-images.githubusercontent.com/75439689/111708674-4a2b3080-8814-11eb-944c-01094750a46b.jpg)
-   ![Diagramas_Página_2](https://user-images.githubusercontent.com/75439689/111708676-4a2b3080-8814-11eb-87fe-e862b50b2a9a.jpg)
-   ![Diagramas_Página_3](https://user-images.githubusercontent.com/75439689/111708679-4a2b3080-8814-11eb-9733-0fb30a7b2b8e.jpg)
-   ![Diagramas_Página_4](https://user-images.githubusercontent.com/75439689/111708680-4ac3c700-8814-11eb-83ad-362c3d1bf6e1.jpg)
-   ![Diagramas_Página_5](https://user-images.githubusercontent.com/75439689/111708671-49929a00-8814-11eb-8a7b-63a6405f5b5d.jpg)
-   
+   ![Diagramas_Página_1](https://user-images.githubusercontent.com/75439689/111710876-8bbdda80-8818-11eb-8236-cf7d513eeb4d.jpg)
+   ![Diagramas_Página_2](https://user-images.githubusercontent.com/75439689/111710877-8c567100-8818-11eb-9b9d-ff3349cbee6b.jpg)
+   ![Diagramas_Página_3](https://user-images.githubusercontent.com/75439689/111710875-8bbdda80-8818-11eb-955f-d4af91d6de8c.jpg)
+
 4. LISTA DE COMPONENTES
    
    ![image](https://user-images.githubusercontent.com/75439689/111701276-95d7dd00-8808-11eb-8ec1-c5b294974b2e.png)
@@ -32,13 +30,13 @@
 
    5.1. Desarrollo
      
-     ![Laboratorio 7_Página_1](https://user-images.githubusercontent.com/75439689/111705827-4ba62a00-880f-11eb-907e-6987889fb368.jpg)
-     ![Laboratorio 7_Página_2](https://user-images.githubusercontent.com/75439689/111705829-4c3ec080-880f-11eb-8bda-7c2b764ba369.jpg)
-     ![Laboratorio 7_Página_3](https://user-images.githubusercontent.com/75439689/111705830-4c3ec080-880f-11eb-8aed-eaf94724dc9a.jpg)
-     ![Laboratorio 7_Página_4](https://user-images.githubusercontent.com/75439689/111705822-4b0d9380-880f-11eb-89c8-865bdf73b198.jpg)
-     ![Laboratorio 7_Página_5](https://user-images.githubusercontent.com/75439689/111705824-4ba62a00-880f-11eb-84da-1a9f7d4658a6.jpg)
-     ![Laboratorio 7_Página_6](https://user-images.githubusercontent.com/75439689/111705826-4ba62a00-880f-11eb-8c81-78ae7bcc013d.jpg)
-     
+   ![Laboratorio 7_Página_1](https://user-images.githubusercontent.com/75439689/111711013-ddfefb80-8818-11eb-943f-a72e0921ea39.jpg)
+   ![Laboratorio 7_Página_2](https://user-images.githubusercontent.com/75439689/111711014-de979200-8818-11eb-8849-09f77f5e02fa.jpg)
+   ![Laboratorio 7_Página_3](https://user-images.githubusercontent.com/75439689/111711016-de979200-8818-11eb-8f6e-e58fdd6447a6.jpg)
+   ![Laboratorio 7_Página_4](https://user-images.githubusercontent.com/75439689/111711010-dd666500-8818-11eb-8546-843533ffa2a5.jpg)
+   ![Laboratorio 7_Página_5](https://user-images.githubusercontent.com/75439689/111711043-eb1bea80-8818-11eb-918c-853c0c312978.jpg)
+   ![Laboratorio 7_Página_6](https://user-images.githubusercontent.com/75439689/111711052-efe09e80-8818-11eb-9bac-8f6b2b546dca.jpg)
+
    5.2. Procedimiento
      
    - Ingresar a la plataforma dcaclab y seleccionar los materiales previamente listados.
