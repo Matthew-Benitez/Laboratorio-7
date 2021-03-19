@@ -29,7 +29,38 @@
 
 5. EXPLICACIÓN
 
-   5.1. Desarrollo
+   5.1. Procedimiento
+   
+     Ejercicio 1: Transformar a la forma polar
+     
+      - Obtener el módulo del fasor aplicando el teorema de pitágoras entre las dos componentes rectangulares (catetos).
+      - Obtener el ángulo polar del fasor aplicando la inversa de la tangente al cociente entre la componente imaginaria y la componente real (incluyendo sus signos), si se encuentra en el segundo o tercer cuadrante, se suman 180° al valo9r obtenido.
+      - Expresar el fasor con su módulo y su ángulo polar.
+
+     Ejercicio 2: Transformar a la forma rectangular
+     
+      - Obtener la componente real mediante el producto entre el módulo y el coseno del ángulo.
+      - Obtener la componente imaginaria mediante el producto entre el módulo y el seno del ángulo.
+      - Expresar el fasor como la suma de la componente real con la imaginaria (la cual lleva una j delante).
+     
+     Ejercicio 3: Operaciones
+     
+     Dependiendo del tipo de operaciones que se tenga, se debe realisarlas respectivas transformaciones
+     
+      - Si es una multiplicación o división entre fasores, se pasa todo a la forma polar. Donde los módulos se multiplican o dividen según el caso, y los ángulos se suman (si es multiplicación) o se restan (si es división).
+      - Si es una suma o resta entre fasores, se pasa todo a la forma rectangular. Donde se suman o restan los términos reales y de igual manera se procede con los términos imaginarios.
+     
+     Ejercicio 4: Comprobación con calculadora
+     
+      - Ingresar a la plataforma symbolab (link: https://es.symbolab.com/solver/complex-number-calculator/)
+      - Seleccionar la opción que se requiere realizar.
+      - Ingresar los valores fasoriales.
+      - Dar click en "Ir".
+      - Verificar la respuesta.
+       
+   
+   
+   5.2. Desarrollo
      
    ![Laboratorio 7_Página_1](https://user-images.githubusercontent.com/75439689/111711013-ddfefb80-8818-11eb-943f-a72e0921ea39.jpg)
    ![Laboratorio 7_Página_2](https://user-images.githubusercontent.com/75439689/111711014-de979200-8818-11eb-8849-09f77f5e02fa.jpg)
@@ -38,11 +69,8 @@
    ![Laboratorio 7_Página_5](https://user-images.githubusercontent.com/75439689/111711043-eb1bea80-8818-11eb-918c-853c0c312978.jpg)
    ![Laboratorio 7_Página_6](https://user-images.githubusercontent.com/75439689/111711052-efe09e80-8818-11eb-9bac-8f6b2b546dca.jpg)
 
-   5.2. Procedimiento
 
-    Ejercicio 1: Transformar de la forma rectangular a la forma polar
-     
-    - Obtener el módulo 
+    
 
    5.3. Comparación de Respuestas
   
