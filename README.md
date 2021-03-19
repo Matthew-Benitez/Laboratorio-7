@@ -66,7 +66,7 @@
 7. CONCLUSIONES
 
    - Es necesario conocer cómo realizar operaciones matemáticas entre números complejos (ya sea en su forma polar o rectangular), ya que estos permiten la representación de fasores, los cuales a su vez son fundamentales en el análisis de circuitos en CA.
-   - Para poder efectuar sumas o restas entre fasores, es necesario que estos se encuentren en coordenadas rectantulares, y si no lo están, se deben transformara dichas coordenadas. Ya que únicamente se suman o restan los términos semejantes, es decir, los términos que comprenden la parte real del número complejo se suman o restan entre sí, y de igual manera se opera entre números imaginarios.
+   - Para poder efectuar sumas o restas entre fasores, es necesario que estos se encuentren en coordenadas rectangulares, y si no lo están, se deben transformar a dichas coordenadas. Ya que únicamente se suman o restan los términos semejantes, es decir, los términos que comprenden la parte real del número complejo se suman o restan entre sí, y de igual manera se opera entre números imaginarios.
    - Para poder efectuar multiplicaciones o divisiones con cantidades fasoriales, estas deben estar expresadas en coordenadas polares para poder facilitar el proceso (de no ser así, se deben transformar a dichas coordenadas). Ya que de esa manera, únicamente se multiplican o dividen las magnitudes correspondientes y los ángulos se suman (si es multiplicación) o se restan (si es división). 
 
 
