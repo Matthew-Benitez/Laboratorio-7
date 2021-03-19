@@ -49,9 +49,9 @@
    - Desconectar el oscilocopio de la resistencia de carga y en su lugar conectar las terminales del multímetro en dihca resistencia, cuya perilla debe estar en 12V AC.
    - Observar y anotar el voltaje que tiene la resistencia de carga en el multímetro (Vrms).
   
-  5.3. Comparación de Respuestas
+   5.3. Comparación de Respuestas
   
-   -  Cómo se puede observar, las operaciones hechas a mano y a calculadora son muy parecidas sin embargo tienen un pequeño margen de error:
+    -  Cómo se puede observar, las operaciones hechas a mano y a calculadora son muy parecidas sin embargo tienen un pequeño margen de error:
 
       ![Error](https://user-images.githubusercontent.com/75439689/111712761-4a2f2e80-881c-11eb-8c6f-1b4ecbafd025.jpg)
 
