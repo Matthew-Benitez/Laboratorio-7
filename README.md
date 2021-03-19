@@ -51,7 +51,9 @@
   
   5.3. Comparación de Respuestas
   
-   -  Cómo se puede observar, las operaciones hechas a mano y a calculadora son muy parecidas 
+   -  Cómo se puede observar, las operaciones hechas a mano y a calculadora son muy parecidas sin embargo tienen un pequeño margen de error:
+
+      ![Error](https://user-images.githubusercontent.com/75439689/111712761-4a2f2e80-881c-11eb-8c6f-1b4ecbafd025.jpg)
 
 6. MANUAL DE USUARIO
 
