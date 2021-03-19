@@ -65,10 +65,11 @@
  
 7. CONCLUSIONES
 
-   - Saber como determinar los distintos tipos de voltaje que hay dentro de un circuito con C.A. es muy útil, ya que en la realidad hay que tomar otros valores además de los obvios, como es el voltaje de amplitud que no es más el voltaje pico que puede medir el osciloscopio; pero el voltaje utilizado es el voltaje RMS que representa el aproximadamente 70% y que es el voltaje de salida de resistor RL del circuito.
-   - El simulador demuestra eficientemente que diferentes tipos de gráficas y combinaciones para medir el voltaje o corriente de una fuente C.A., tanto la división del tiempo que puede ser tomado en microsegundos o milisegundos, o las divisiones de los voltajes los cuáles se ven de una mejor manera dependiendo de la amplitud de voltaje.
-   - Junto con los cálculos que nos brinda un osciloscopio se puede determinar a parte otros datos como son la frecuencia (la cual es hallada con la inversa del periódo) y la frecuencia angular (que se calcula con la fórmula de 2*π*f).
-  
+   - Es necesario conocer cómo realizar operaciones matemáticas entre números complejos (ya sea en su forma polar o rectangular), ya que estos permiten la representación de fasores, los cuales a su vez son fundamentales en el análisis de circuitos en CA.
+   - Para poder efectuar sumas o restas entre fasores, es necesario que estos se encuentren en coordenadas rectantulares, y si no lo están, se deben transformara dichas coordenadas. Ya que únicamente se suman o restan los términos semejantes, es decir, los términos que comprenden la parte real del número complejo se suman o restan entre sí, y de igual manera se opera entre números imaginarios.
+   - Para poder efectuar multiplicaciones o divisiones con cantidades fasoriales, estas deben estar expresadas en coordenadas polares para poder facilitar el proceso (de no ser así, se deben transformar a dichas coordenadas). Ya que de esa manera, únicamente se multiplican o dividen las magnitudes correspondientes y los ángulos se suman (si es multiplicación) o se restan (si es división). 
+
+
 8. BIBLIOGRAFÍA
 
    - Floyd, T. L. (2007). Principios de circuitos eléctricos (Octava ed.).
